@@ -1,0 +1,6 @@
+# ignore files
+
+.classpath
+.project
+*.jar
+/bin/
